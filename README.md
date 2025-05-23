@@ -132,9 +132,9 @@ Hope it helps inspire others learning BI tools! 🙌
 ## 🙋‍♂️ Developer
 
 **👨‍💻 Abhishek Kumar**
-📧 Feel free to connect on [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abhishek-yadav-70as69829a/)
-🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
-📂 GitHub: [github.com/your-profile]([https://github.com/your-profile](https://github.com/abhishekkumar62000)
+📧 Feel free to connect on [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abhishek-yadav-70as69829a/))
+🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com))
+📂 GitHub: [github.com/your-profile]([https://github.com/your-profile](https://github.com/abhishekkumar62000))
 
 ---
 
